@@ -1,0 +1,1 @@
+This is a Machine Learning based project in Python. It recommends movie based on the features like "genres","director","cast","keywords",and "tagline". I have used 'Cosine-Similarity' algorithm to find the similarity between the movies.
